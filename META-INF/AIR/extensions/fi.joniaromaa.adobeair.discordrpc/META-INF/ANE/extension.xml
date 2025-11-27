@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension xmlns="http://ns.adobe.com/air/extension/32.0">
+<extension xmlns="http://ns.adobe.com/air/extension/50.0">
 	<id>fi.joniaromaa.adobeair.discordrpc</id>
 	<name>Discord RPC</name>
 	<versionNumber>1.0.0</versionNumber>
