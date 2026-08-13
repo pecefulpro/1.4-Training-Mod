@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<application xmlns="http://ns.adobe.com/air/application/50.1">
+<application xmlns="http://ns.adobe.com/air/application/51.3">
   <id>com.mcleodgaming.ssf2</id>
   <versionNumber>001.400.001</versionNumber>
   <filename>Super Smash Flash 2 Beta</filename>
@@ -23,12 +23,25 @@
   <architecture>64</architecture>
   <customUpdateUI>false</customUpdateUI>
   <allowBrowserInvocation>false</allowBrowserInvocation>
-  <supportedProfiles>extendedDesktop</supportedProfiles>
+  <supportedProfiles>extendedDesktop desktop</supportedProfiles>
   
   
-  
+ <systemConfig>
+    <!-- Skip stack checks for performance (only safe if no deep recursion) -->
+    <stackOverflowChecks>never</stackOverflowChecks>
+
+    <!-- Allow 40MB to accumulate before GC kicks in (default is 20MB) -->
+    <gcCollectionThreshold>15360</gcCollectionThreshold>
+
+    <!-- GC uses only 15% of CPU relative to app work (default 0.25) -->
+    <gcEfficiency>0.10</gcEfficiency>
+
+    <!-- Max 3ms per marking slice for smoother frame pacing (default 5ms) -->
+    <gcMarkingTime>2</gcMarkingTime>
+</systemConfig>
   <extensions>
     <extensionID>com.iam2bam.ane.nativejoystick</extensionID>
-    <extensionID>fi.joniaromaa.adobeair.discordrpc</extensionID>
+    <extensionID>com.jotard.ane.DiscordANE</extensionID>
+    <extensionID>com.masterwex.ane.rumble</extensionID>
   </extensions>
 </application>
