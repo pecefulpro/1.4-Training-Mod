@@ -6,6 +6,7 @@
 
 Enhance your training experience in Super Smash Flash 2 v1.4 with advanced labbing tools, hitboxes, frame data, and custom stage aesthetics.
 
+![SSF2 1.4 Training MOD Banner](./photos/front.png)
 ---
 
 ## Table of Contents
@@ -96,7 +97,7 @@ Porting to future SSF2 builds depends on available development time and the exte
 First, check the <a href="#known-bugs">Known Bugs</a> section. If your issue isn't listed:
 <ul>
   <li>Open a new issue on the <a href="https://github.com/pecefulpro/1.4-Training-Mod/issues">GitHub Issues</a> page.</li>
-  <li>Directly contact or tag <b>Monte</b> on Discord.</li>
+  <li>Directly contact or tag <b>Me</b> on Discord.</li>
 </ul>
 </details>
 
@@ -116,4 +117,5 @@ Special thanks to everyone who contributed to the planning, visuals, and develop
 * **David** – IDK Creator
 * **Rosie** – Feature Concepts & Design Ideas
 * **VAL** – Palette Creator
-* **Wex** – Stage Alt Assets
+* **Wex** – SSF2 Color Vault 
+* **Brayxen075** – Stage Alts
