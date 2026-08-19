@@ -61,9 +61,9 @@ Enhance your training experience in Super Smash Flash 2 v1.4 with advanced labbi
 ## Installation
 
 1. Go to the [Latest Release Page](https://github.com/pecefulpro/1.4-Training-Mod/releases/latest).
-2. Download the `.zip` archive.
-3. Extract the contents directly into your main **Super Smash Flash 2** installation directory, overwriting existing files when prompted.
-4. Launch the game and enter **Training Mode**.
+2. Download the `Super.Smash.Flash.Training.Mod.zip ` archive.
+3. Extract the contents  into a directory.
+4. Launch the game.
 
 ---
 
@@ -113,9 +113,11 @@ Currently, the mod only natively supports <b>Windows</b>. Linux/macOS releases m
 
 Special thanks to everyone who contributed to the planning, visuals, and development of this mod:
 
-* **Monte** – Community Edition Creator, Core Ideas
-* **David** – IDK Creator
-* **Rosie** – Feature Concepts & Design Ideas
-* **VAL** – Palette Creator
+* **Rosie** – Support / Ideas
+* **Val** – Stage Alts / Palette Maker
 * **Brayxen075** – Stage Alts
-* **Wex** – SSF2 Color Vault 
+* **Jotardo** – DI code
+* **Monte** – Code from Community Edition
+* **David** – Code / Testing
+* **Vollay** – Testing
+* **Sushi** – Testing?
