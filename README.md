@@ -117,5 +117,5 @@ Special thanks to everyone who contributed to the planning, visuals, and develop
 * **David** – IDK Creator
 * **Rosie** – Feature Concepts & Design Ideas
 * **VAL** – Palette Creator
-* **Wex** – SSF2 Color Vault 
 * **Brayxen075** – Stage Alts
+* **Wex** – SSF2 Color Vault 
