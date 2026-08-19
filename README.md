@@ -113,7 +113,7 @@ Currently, the mod only natively supports <b>Windows</b>. Linux/macOS releases m
 
 Special thanks to everyone who contributed to the planning, visuals, and development of this mod:
 
-* **Monte** – Project Lead, Programming/Development, UI Design, Core Ideas
+* **Monte** – Community Edition Creator, Core Ideas
 * **David** – IDK Creator
 * **Rosie** – Feature Concepts & Design Ideas
 * **VAL** – Palette Creator
