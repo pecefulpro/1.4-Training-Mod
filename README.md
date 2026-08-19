@@ -72,6 +72,7 @@ Enhance your training experience in Super Smash Flash 2 v1.4 with advanced labbi
 > [!WARNING]
 > This mod is currently in **Beta**. Please report any unlisted issues.
 
+- **Shield Advance** Sometimes the wrong values show up because this feature isnt fully finished yet.
 - **Replay Desyncs:** Saving or replaying matches recorded while training mod scripts are active may cause playback desyncs.
 - **Menu State Memory:** Quitting and re-opening training menus may occasionally cause options to reset or default to incorrect values.
 
